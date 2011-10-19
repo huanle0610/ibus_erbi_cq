@@ -1,0 +1,5 @@
+$ ibus-table-createdb -s erbi_cq.txt
+生成erbi_cq.db
+$  sudo cp erbi_cq.db /usr/share/ibus-table/tables/
+$  sudo cp erbi_cq.png /usr/share/ibus-table/icons/
+重启ibus，即可。
