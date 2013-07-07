@@ -3,3 +3,14 @@ $ ibus-table-createdb -s erbi_cq.txt
 $  sudo cp erbi_cq.db /usr/share/ibus-table/tables/
 $  sudo cp erbi_cq.png /usr/share/ibus-table/icons/
 重启ibus，即可。
+
+
+在ubuntu下给ibus输入法安装搜狗词库
+wget -c http://hslinuxextra.googlecode.com/files/android.7z
+sudo apt-get install p7zip-full
+7z e android.7z
+sudo mv /usr/share/ibus-pinyin/db/android.db /usr/share/ibus-pinyin/db/android.db.bak
+sudo mv android.db /usr/share/ibus-pinyin/db/android.db
+ 
+
+覆盖以后，你把ibus重启一下点击ibus的图标，选择重启（可别重启电脑……当然也行，汗）
