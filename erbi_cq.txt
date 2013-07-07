@@ -23762,6 +23762,7 @@ cqzx	垂直线	0
 cqzy	筹资	0
 cqzy	重装	0
 cqzz	丛轻折轴	0
+cqdx	重定向	0
 cr;v	瓻	0
 crb,	采办	0
 crb/	采编	0
@@ -36284,6 +36285,7 @@ ggbd	高冠博带	0
 ggbg	国宾馆	0
 ggbh	固表	0
 ggbi	购并	0
+ggwc	购物车	0
 ggbj	固本	0
 ggbk	贵宾卡	0
 ggbl	国别	0
@@ -82205,6 +82207,7 @@ lxzb	林芝	0
 lxzc	李自成	0
 lxzg	林中	0
 lxzi	柳州	0
+lxzj	李志江	0
 lxzj	离弦之箭	0
 lxzl	良性肿瘤	0
 lxzm	林子	0
